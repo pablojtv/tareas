@@ -1,2 +1,0 @@
-# tareas
-aplicaciones distribuidas
